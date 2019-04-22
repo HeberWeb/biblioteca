@@ -1,0 +1,5 @@
+C:\Users\hpietrafeza\Documents\ProjetosCursos\Biblioteca\MatematicaOperacao\obj\Release\MatematicaOperacao.csprojResolveAssemblyReference.cache
+C:\Users\hpietrafeza\Documents\ProjetosCursos\Biblioteca\MatematicaOperacao\bin\Release\MatematicaOperacao.dll
+C:\Users\hpietrafeza\Documents\ProjetosCursos\Biblioteca\MatematicaOperacao\bin\Release\MatematicaOperacao.pdb
+C:\Users\hpietrafeza\Documents\ProjetosCursos\Biblioteca\MatematicaOperacao\obj\Release\MatematicaOperacao.dll
+C:\Users\hpietrafeza\Documents\ProjetosCursos\Biblioteca\MatematicaOperacao\obj\Release\MatematicaOperacao.pdb
